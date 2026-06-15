@@ -8,6 +8,7 @@ public class HelloController {
     private Label welcomeText;
 
     //hello again
+    // second commit
 
     @FXML
     protected void onHelloButtonClick() {
